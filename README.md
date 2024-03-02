@@ -14,6 +14,7 @@
 1. data/img/にポケモンのアイコンをおく
 2. data/settingsに、デフォで入ってるjsonを参考に配置したいポケモンを並べる
 3. `docker-compose up`
+初回実行時のみ時間がかかります
 
 ## 依存
 docker-compose
